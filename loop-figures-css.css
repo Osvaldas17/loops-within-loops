@@ -1,0 +1,28 @@
+* {
+    font-family: monospace;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+button {
+    padding: 20px;
+    margin: 20px 5px;
+    font-size: 15px;
+    border-style: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+button:hover {
+    background-color: rgb(102, 104, 107);
+    color: white;
+}
+.buttons {
+    margin: 15px
+}
+#app {
+    margin: 20px;
+}
+
+
